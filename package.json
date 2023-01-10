@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CameronTofer/sapphire-hardhat/issues"
   },
-  "homepage": "https://github.com/CameronTofer/sapphire-hardhat#readme"
+  "homepage": "https://github.com/CameronTofer/sapphire-hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.5"
+  }
 }
