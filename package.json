@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CameronTofer/sapphire-hardhat#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.5"
   }
 }
